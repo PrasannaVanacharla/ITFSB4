@@ -7,9 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-Welcome prasu
-=======
+
 Welcome User
 >>>>>>> branch 'Branch-one' of https://github.com/PrasannaVanacharla/ITFSB4.git
 
