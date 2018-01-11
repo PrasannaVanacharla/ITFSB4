@@ -7,9 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Enter User Name : <input type="text" placeholder="Enter user name" name="userName"><br/>
-Enter password : <input type="password" placeholder="Enter password" name="password"><br/>
-<input type="submit" value="login">
+Welcome User
 
 </body>
 </html>
